@@ -13,7 +13,14 @@ Site administration
 Account registration and authentication
 ---------------------------------------
 
-.. todo
+-   Anonymous users will have access to products list page and product details.
+-   Anonymous users can register a new customer account, or login to the
+    existing one account.
+-   While registering a new account users must provide their username, email
+    address and password. Password should be confirmed by re-typing it to
+    the specified field to avoid typos.
+-   Authenticated users will be forced logout after certain time of being
+    inactive.
 
 Purchase
 --------
